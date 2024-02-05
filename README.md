@@ -1,2 +1,2 @@
 Personal Site
-https://aliyaaware.github.io/aliya.digital/
+Check out my github: https://aliyaaware.github.io/aliya.digital/
